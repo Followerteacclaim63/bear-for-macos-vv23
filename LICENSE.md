@@ -1,4 +1,4 @@
-#  
+#  Bear for macOS automatic Script - markdown support and focus mode is the best Bear for macOS script, featuring markdown support and focus mode. Safe, efficient, and optimized for
 
 
 
